@@ -66,7 +66,7 @@ public	JPanel centerPanel = new JPanel(new GridBagLayout());					//center Panel 
 			MyCalculator basicGUI = new MyCalculator();
 			basicGUI.setDefaultCloseOperation(EXIT_ON_CLOSE);
 			basicGUI.setVisible(false);
-		
+		//hiiii
 			Numbers n = new Numbers();
 			n.setDefaultCloseOperation(EXIT_ON_CLOSE);											//If GUI Pops up you can End it By closing it
 			Calculation c = new Calculation(); 												
